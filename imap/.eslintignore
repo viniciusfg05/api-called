@@ -1,0 +1,6 @@
+build
+node_modules
+vite.config.ts
+prisma
+server.ts
+f.ts
